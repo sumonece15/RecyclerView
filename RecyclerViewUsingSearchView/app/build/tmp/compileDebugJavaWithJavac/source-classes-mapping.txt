@@ -1,0 +1,15 @@
+com/sumon/recyclerviewusingsearchview/BuildConfig.java
+ com.sumon.recyclerviewusingsearchview.BuildConfig
+com/sumon/recyclerviewusingsearchview/DetailsActivity.java
+ com.sumon.recyclerviewusingsearchview.DetailsActivity
+com/sumon/recyclerviewusingsearchview/myViewHolder.java
+ com.sumon.recyclerviewusingsearchview.myViewHolder
+com/sumon/recyclerviewusingsearchview/Model.java
+ com.sumon.recyclerviewusingsearchview.Model
+com/sumon/recyclerviewusingsearchview/myAdapter.java
+ com.sumon.recyclerviewusingsearchview.myAdapter
+ com.sumon.recyclerviewusingsearchview.myAdapter$1
+ com.sumon.recyclerviewusingsearchview.myAdapter$2
+com/sumon/recyclerviewusingsearchview/MainActivity.java
+ com.sumon.recyclerviewusingsearchview.MainActivity
+ com.sumon.recyclerviewusingsearchview.MainActivity$1

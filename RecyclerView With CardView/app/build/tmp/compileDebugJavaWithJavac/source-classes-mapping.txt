@@ -1,0 +1,10 @@
+com/sumon/recyclerviewwithcardview/myAdapter.java
+ com.sumon.recyclerviewwithcardview.myAdapter
+com/sumon/recyclerviewwithcardview/myViewHolder.java
+ com.sumon.recyclerviewwithcardview.myViewHolder
+com/sumon/recyclerviewwithcardview/BuildConfig.java
+ com.sumon.recyclerviewwithcardview.BuildConfig
+com/sumon/recyclerviewwithcardview/Model.java
+ com.sumon.recyclerviewwithcardview.Model
+com/sumon/recyclerviewwithcardview/MainActivity.java
+ com.sumon.recyclerviewwithcardview.MainActivity

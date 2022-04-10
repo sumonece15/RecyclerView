@@ -1,0 +1,13 @@
+com/sumon/recyclerview/User.java
+ com.sumon.recyclerview.User
+com/sumon/recyclerview/UserAdapter.java
+ com.sumon.recyclerview.UserAdapter
+ com.sumon.recyclerview.UserAdapter$1
+ com.sumon.recyclerview.UserAdapter$holder
+com/sumon/recyclerview/BuildConfig.java
+ com.sumon.recyclerview.BuildConfig
+com/sumon/recyclerview/MainActivity.java
+ com.sumon.recyclerview.MainActivity
+ com.sumon.recyclerview.MainActivity$1
+ com.sumon.recyclerview.MainActivity$2
+ com.sumon.recyclerview.MainActivity$3

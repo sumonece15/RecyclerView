@@ -1,0 +1,13 @@
+com/sumon/recyclerviewonclicklistener/myViewHolder.java
+ com.sumon.recyclerviewonclicklistener.myViewHolder
+com/sumon/recyclerviewonclicklistener/myAdapter.java
+ com.sumon.recyclerviewonclicklistener.myAdapter
+ com.sumon.recyclerviewonclicklistener.myAdapter$1
+com/sumon/recyclerviewonclicklistener/MainActivity.java
+ com.sumon.recyclerviewonclicklistener.MainActivity
+com/sumon/recyclerviewonclicklistener/Model.java
+ com.sumon.recyclerviewonclicklistener.Model
+com/sumon/recyclerviewonclicklistener/BuildConfig.java
+ com.sumon.recyclerviewonclicklistener.BuildConfig
+com/sumon/recyclerviewonclicklistener/DetailsActivity.java
+ com.sumon.recyclerviewonclicklistener.DetailsActivity
