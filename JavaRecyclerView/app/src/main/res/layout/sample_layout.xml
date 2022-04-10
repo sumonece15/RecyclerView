@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="#FB8C00"
+
+    >
+
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:layout_margin="5dp"
+        android:background="@color/teal_700"
+        >
+
+        <ImageView
+            android:id="@+id/imageViewId"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/bangladesh_icon"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center"
+            android:layout_marginLeft="75dp"
+
+            >
+
+            <TextView
+                android:id="@+id/titleTextViewId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Title"
+                android:textStyle="bold|italic"
+                android:textColor="@color/black"
+                android:textAppearance="@style/TextAppearance.AppCompat.Large"
+                android:layout_marginTop="5dp"
+                />
+
+            <TextView
+                android:id="@+id/descriptionTextViewId"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Description will be placed here"
+                android:textColor="@color/black"
+                android:textAppearance="@style/TextAppearance.AppCompat.Small"
+                android:layout_marginTop="5dp"
+                />
+
+
+
+        </LinearLayout>
+
+
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

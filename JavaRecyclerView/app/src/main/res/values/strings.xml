@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Recycler CardView</string>
+
+    <string-array name="country_names">
+
+
+        <item> Bangladesh  </item>
+        <item> India  </item>
+        <item> Pakistan  </item>
+        <item> China  </item>
+        <item> Afghanistan  </item>
+        <item> Iraq  </item>
+        <item> Italy  </item>
+        <item> Canada  </item>
+        <item> Mexico  </item>
+        <item> Nepal  </item>
+        <item> Norway  </item>
+        <item> Oman  </item>
+        <item> Peru  </item>
+        <item> Poland  </item>
+        <item> Spain  </item>
+        <item> Sudan  </item>
+
+    </string-array>
+
+    <string-array name="country_desc">
+
+        <item> Bangladesh is a beautiful country </item>
+        <item> India is a beautiful country </item>
+        <item> Pakistan is a beautiful country </item>
+        <item> China is a beautiful country </item>
+        <item> Afghanistan is a beautiful country </item>
+        <item> Iraq is a beautiful country </item>
+        <item> Italy is a beautiful country </item>
+        <item> Canada is a beautiful country </item>
+        <item> Mexico is a beautiful country </item>
+        <item> Nepal is a beautiful country </item>
+        <item> Norway is a beautiful country </item>
+        <item> Oman is a beautiful country </item>
+        <item> Peru is a beautiful country </item>
+        <item> Poland is a beautiful country </item>
+        <item> Spain is a beautiful country </item>
+        <item> Sudan is a beautiful country </item>
+
+
+
+
+    </string-array>
+
+</resources>
