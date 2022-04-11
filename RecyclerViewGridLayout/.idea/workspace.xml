@@ -6,13 +6,15 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f7ccf93-324e-4488-be67-6adccb9b0583" name="Default Changelist" comment="" />
+    <list default="true" id="3f7ccf93-324e-4488-be67-6adccb9b0583" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../JavaRecyclerView" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaRecyclerView" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[f530c3b3]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -26,7 +28,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="27SFX4Ye9JZ5yFJ7FrkHt1cBsEM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>

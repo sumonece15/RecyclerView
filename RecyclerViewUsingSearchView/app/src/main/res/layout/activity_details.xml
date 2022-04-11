@@ -11,7 +11,7 @@
     <ImageView
         android:id="@+id/desc_img"
         android:layout_width="300dp"
-        android:layout_height="300dp"
+        android:layout_height="305dp"
         android:layout_gravity="center"
         android:layout_marginTop="20dp"
         android:src="@mipmap/ic_launcher"
